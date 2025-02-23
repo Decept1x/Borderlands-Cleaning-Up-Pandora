@@ -1,0 +1,11 @@
+[project]
+name = "CleaningUpPandora"
+version = "2"
+authors = [{ name = "Deceptix_" }]
+description = "Adds the ability to sell items that are on the floor or in your backpack by pressing the 'Secondary Use' key.\n\nNOTE:\n<ul><li>Items that are favorited or equipped cannot be sold.</li><li>Controller users need to press 'Start' to sell items from their backpack</li><li>All sold items can be bought back from any vendor.</ul>"
+
+[tool.sdkmod]
+name = "Cleaning Up Pandora"
+license = {name = "GPL3", url = "https://choosealicense.com/licenses/gpl-3.0/" }
+download = "https://github.com/Decept1x/Borderlands-Cleaning-Up-Pandora/releases/download/2.0/cleaning_up_pandora.sdkmod"
+version = "2"
